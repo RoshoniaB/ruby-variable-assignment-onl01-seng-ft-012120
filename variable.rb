@@ -4,6 +4,4 @@ def=greeting
 
 greeting="Hello World"
 
-greeting
-
 
